@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blog.bluefox-security.ch/sitemap-index.xml
